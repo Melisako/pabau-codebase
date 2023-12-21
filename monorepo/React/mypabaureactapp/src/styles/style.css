@@ -78,8 +78,13 @@ a::after {
 
 a:hover::after {
   transform: translateY(2px);
+  
 }
 
+a:hover{
+  color: #eeeef4;
+  background-color: #949292;
+}
  
   .back-link {
     margin-left: 5rem;
